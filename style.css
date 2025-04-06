@@ -1,0 +1,11 @@
+p{
+    color: red;
+    padding-left: 30px;
+    font-weight: 300;
+}
+h1{
+    font-weight: 200;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
